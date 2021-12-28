@@ -15,5 +15,9 @@ module.exports = [
   {
     id: 4,
     task: "Write automated script for azure circle ci deploy"
+  },
+  {
+    id: 5,
+    task: "Celebrate"
   }
 ];
